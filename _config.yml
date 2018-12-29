@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Companion webpage to the book "Mathematics for Machine Learning".
   Copyright 2018 by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong. To be published by Cambridge University Press.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mml-book.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tuan-l.github.io/mml-book.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  mml-book
 
