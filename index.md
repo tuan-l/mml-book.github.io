@@ -19,35 +19,35 @@ so we don't cover everything.
 
 ### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
 
-* [**Table of Contents**](book/toc.pdf)
-* [**Notation**](book/notation.pdf)
+* [**Table of Contents**](/mml-book.github.io/book/toc.pdf)
+* [**Notation**](/mml-book.github.io/book/notation.pdf)
 
 ##  Draft chapters for download
 
-[**Foreword**](book/foreword.pdf)
+[**Foreword**](/mml-book.github.io/book/foreword.pdf)
 
 **Part I: Mathematical Foundations**  
 
-1. [**Introduction and Motivation**](book/chapter01.pdf)
-2. [**Linear Algebra**](book/chapter02.pdf)
-3. [**Analytic Geometry**](book/chapter03.pdf)
-4. [**Matrix Decompositions**](book/chapter04.pdf)
-5. [**Vector Calculus**](book/chapter05.pdf)
-6. [**Probability and Distribution**](book/chapter06.pdf)
-7. [**Continuous Optimization**](book/chapter07.pdf)
+1. [**Introduction and Motivation**](/mml-book.github.io/book/chapter01.pdf)
+2. [**Linear Algebra**](/mml-book.github.io/book/chapter02.pdf)
+3. [**Analytic Geometry**](/mml-book.github.io/book/chapter03.pdf)
+4. [**Matrix Decompositions**](/mml-book.github.io/book/chapter04.pdf)
+5. [**Vector Calculus**](/mml-book.github.io/book/chapter05.pdf)
+6. [**Probability and Distribution**](/mml-book.github.io/book/chapter06.pdf)
+7. [**Continuous Optimization**](/mml-book.github.io/book/chapter07.pdf)
 
 **Part II: Central Machine Learning Problems**  
 
 {:start="8"}
-8. [**When Models Meet Data**](book/chapter08.pdf)
-9. [**Linear Regression**](book/chapter09.pdf)
-10. [**Dimensionality Reduction with Principal Component Analysis**](book/chapter10.pdf)
-11. [**Density Estimation with Gaussian Mixture Models**](book/chapter11.pdf)
-12. [**Classification with Support Vector Machines**](book/chapter12.pdf)
+8. [**When Models Meet Data**](/mml-book.github.io/book/chapter08.pdf)
+9. [**Linear Regression**](/mml-book.github.io/book/chapter09.pdf)
+10. [**Dimensionality Reduction with Principal Component Analysis**](/mml-book.github.io/book/chapter10.pdf)
+11. [**Density Estimation with Gaussian Mixture Models**](/mml-book.github.io/book/chapter11.pdf)
+12. [**Classification with Support Vector Machines**](/mml-book.github.io/book/chapter12.pdf)
 
-[**references**](book/references.pdf)
+[**references**](/mml-book.github.io/book/references.pdf)
 
-[**index**](book/index.pdf)
+[**index**](/mml-book.github.io/book/index.pdf)
 
 
 ### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
